@@ -1,7 +1,7 @@
 <template>
   <div class="preview">
     <div class="body">
-      <div class="lg:w-2/12 lg:p-2 md:p-2 md:w-4/12" v-for="i in 10">
+      <div class="lg:w-2/12 lg:p-2 md:p-2 md:w-4/12" v-for="i in 4">
         <div class="card glass bg-white relative">
           <figure>
             <img
